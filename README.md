@@ -19,7 +19,7 @@ The following functionality is completed:
 Here's a walkthrough of implemented features:
 
 Showcases app functionality:
-https://www.youtube.com/watch?v=dsvHMBVAYTk
+https://i.imgur.com/zKBHLxR.gifv
 
 ## License
 
